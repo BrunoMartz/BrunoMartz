@@ -1,5 +1,5 @@
-<h1 align="center">Hola, soy Bruno Martinez</h1>
-<h3 align="center">Egresado de la carrera de Ciencias de la Computación en la Facultad de Ciencias, UNAM</h3>
+<h1 align="center">¡Hola, soy Bruno Martinez!</h1>
+<h3 align="center">Egresado de la carrera de Ciencias de la Computación en la Facultad de Ciencias, UNAM.</h3>
 
 
 - 🔭 Actualmente, estoy haciendo mi servicio social en el [Laboratorio de Investigación y Desarrollo de Aplicaciones Interactivas para la Neuro-Rehabilitación (LANR)](https://lanr.ifc.unam.mx/)
