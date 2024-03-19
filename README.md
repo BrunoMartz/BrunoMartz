@@ -4,10 +4,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brunomartz" alt="brunomartz" /></a> </p>
 
 - 🔭 Actualmente, estoy haciendo mi servicio social en el [Laboratorio de Investigación y Desarrollo de Aplicaciones Interactivas para la Neuro-Rehabilitación (LANR)](https://lanr.ifc.unam.mx/)
-
-- 🌱 Estoy aprendiendo **Unity Engine,**
-
-- 📫 Contáctame en **brunomaren8@gmail.com**
+- Estoy interesado en en desarrollo de videojuegos, el desarrollo web backend, las ciencias de datos y el desarrollo de software.
+- 📫 Contáctame: **brunomaren8@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
