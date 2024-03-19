@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola!, soy Bruno Martinez</h1>
+<h1 align="center">Hola, soy Bruno Martinez</h1>
 <h3 align="center">Egresado de la carrera de Ciencias de la Computación en la Facultad de Ciencias, UNAM</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brunomartz" alt="brunomartz" /></a> </p>
