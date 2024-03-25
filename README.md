@@ -2,8 +2,8 @@
 <h3 align="center">Egresado de la carrera de Ciencias de la Computación en la Facultad de Ciencias, UNAM.</h3>
 
 
-- 🔭 Actualmente, estoy haciendo mi servicio social en el [Laboratorio de Investigación y Desarrollo de Aplicaciones Interactivas para la Neuro-Rehabilitación (LANR)](https://lanr.ifc.unam.mx/)
-- Estoy interesado en en desarrollo de videojuegos, el desarrollo web backend, las ciencias de datos y el desarrollo de software.
+- 🥼 Actualmente, estoy en proceso de realizar mi tesis en el [Laboratorio de Investigación y Desarrollo de Aplicaciones Interactivas para la Neuro-Rehabilitación (LANR)](https://lanr.ifc.unam.mx/)
+- 🎯 Estoy interesado en en desarrollo de videojuegos, el desarrollo web backend, las ciencias de datos y el desarrollo de software.
 - 📫 Contacto: **brunomaren8@gmail.com**
 
 <h3 align="left">Lenguajes y herramientas:</h3>
