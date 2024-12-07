@@ -1,8 +1,9 @@
 <h1 align="center">¡Hola, soy Bruno Martinez!</h1>
 <h3 align="center">Egresado de la carrera de Ciencias de la Computación en la Facultad de Ciencias, UNAM.</h3>
+<h3 align="center">Application Developer en Accenture.</h3>
 
 
-- 🥼 Actualmente, estoy en proceso de realizar mi tesis en el [Laboratorio de Investigación y Desarrollo de Aplicaciones Interactivas para la Neuro-Rehabilitación (LANR)](https://lanr.ifc.unam.mx/)
+- 💻 Actualmente me encuentro trabajando como desarrollador de aplicaciones en Accenture.
 - 🎯 Estoy interesado en en desarrollo de videojuegos, el desarrollo web backend, las ciencias de datos y el desarrollo de software.
 - 📫 Contacto: **brunomaren8@gmail.com**
 
